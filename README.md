@@ -1,2 +1,2 @@
 PORTFOLIO
-https://shre-yansh.github.io/Portfolio/
+https://adrija526.github.io/Portfolio/
